@@ -1,0 +1,20 @@
+import os
+
+
+def rename_files(): #function definition
+    #(1) get file names from a folder
+    file_list=os.listdir(r"/Users/BrightNwanoruo/Desktop/Couses completed Online/Prog. Foundation with Python/prank")
+    print (file_list)
+    saved_path = os.getcwd()
+    print("current working directory is "+saved_path)
+    os.chdir(r"/Users/BrightNwanoruo/Desktop/Couses completed Online/Prog. Foundation with Python/prank")
+    #(2) for each file, rename file
+    for file_name in file_list: #work with each file name at a time
+        print("Old Name - "+file_name)
+        print("New Name -"+file_name.translate(None,"0123456789"))
+        os.rename(file_name,file_name.translate(None,"0123456789"))
+    os.chdir(saved_path) #without this, no display of the files after sorting, in fact no sorting
+    
+rename_files() #This is afunction call to the above fuction
+               #without this statement there will not be any output
+
