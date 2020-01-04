@@ -40,3 +40,35 @@ My friends and I, we play a lot of pranks on each other. Today, however, I was o
 Just as shown below<br>
 ![Screen Shot 2019-12-25 at 12 14 54 PM](https://user-images.githubusercontent.com/13493736/71449721-33308800-2710-11ea-80a6-2ffb238381c5.png)<br>
 ###### You may want to sort the photos in the unzpipped prank folder by photo name for you to see similar text formation by the photos
+
+# License
+
+Copyright © 2019 Bright Nwanoruo 
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+
+    1. Redistributions of source code must retain the above copyright notice,
+       this list of conditions and the following disclaimer.
+
+
+    2. Redistributions in binary form must reproduce the above copyright
+       notice, this list of conditions and the following disclaimer in the
+       documentation and/or other materials provided with the distribution.
+
+
+    3. Neither the name of The author nor the names of its contributors may
+       be used to endorse or promote products derived from this software
+       without specific prior written permission.
+
+
+THIS SOFTWARE IS PROVIDED BY THE AUTHOR AND CONTRIBUTORS "AS IS" AND
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE AUTHOR AND CONTRIBUTORS BE LIABLE FOR
+ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
+ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
